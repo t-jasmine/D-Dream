@@ -1,4 +1,6 @@
 # D-Dream
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
+
 a simple platformer with basic movement and a cute dog! WASD and space bar to move.
 
 Play here: https://t-jasmine.itch.io/d-dream
